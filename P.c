@@ -1,4 +1,5 @@
 #include <stdio.h>
-void main{
-    printf("blacky");
+int main (){
+    printf("blacky woi");
+    return 0;
 }
